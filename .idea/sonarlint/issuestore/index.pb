@@ -1,0 +1,19 @@
+
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+{
+Kapp/src/main/java/com/geekhub/retrofitexample/data/network/MyInterceptor.kt,c/a/ca8904a8cdc498e64418a3bc266dedb3aeb6e4c1
+q
+Aapp/src/main/java/com/geekhub/retrofitexample/ui/main/MainView.kt,e/7/e7c48a0cc5a340f1fbce12b2d1a065bfb804f940
+u
+Eapp/src/main/java/com/geekhub/retrofitexample/ui/main/MainActivity.kt,d/2/d2114e8b20e71c9d2d10275124eb4436a45fbb9b
+v
+Fapp/src/main/java/com/geekhub/retrofitexample/ui/main/MainPresenter.kt,5/9/591c9e87a7a6b44d5c4c3f1da99e3a8b0c6208ae
+{
+Kapp/src/main/java/com/geekhub/retrofitexample/data/model/WeatherResponse.kt,a/2/a22b8add8f57122bab3f4256422128f76ff8c3b8
+€
+Papp/src/main/java/com/geekhub/retrofitexample/data/network/OpenWeatherService.kt,5/a/5a75155ae29b9fb71621a5368cd69813aa23979f
+{
+Kapp/src/main/java/com/geekhub/retrofitexample/data/repository/Repository.kt,7/8/78e0c6bbc0818ca5b72dfe3af77b4bdcd7ab437c
